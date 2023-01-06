@@ -1,3 +1,6 @@
 ## Master Branch 
 this readme is deployed in master branch  
-this line has been added from the github remote repo
+this line has been added from the github remote repo  
+  
+## myBranch
+this line has been added in myBranch
